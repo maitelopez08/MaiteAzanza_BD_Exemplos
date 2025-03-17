@@ -1,0 +1,5 @@
+Nome: Maite López
+Idade: 17 anos
+Trabalho: Não trabalho
+Conhecimento da área: O aprendido no curso(HTML e CSS)
+Passatempos: Dormir, ouvir música e jogar.
